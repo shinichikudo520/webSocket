@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "ws": "^8.5.0"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
