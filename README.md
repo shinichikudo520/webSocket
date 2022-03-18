@@ -63,6 +63,9 @@
 2. npm init -y
 3. yarn add ws
 4. yarn add nodemon -g （这个工具如果全局安装过了，就可以不用安装了）
+
+   - nodemon：可以自动检测到目录中的文件更改时通过重新启动应用程序来调试基于 node.js 的应用程序。
+
 5. 将 package.json 中脚本命令修改成
 
    `"scripts": "scripts": { "dev": "nodemon index.js" },`
